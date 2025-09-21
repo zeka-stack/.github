@@ -1,6 +1,4 @@
-# Zeka.Stack
-
-[homepage](https://zeka-stack.github.io/#/)
+# [Zeka.Stack](https://zeka-stack.github.io/#/)
 
 <div align="center">
 
