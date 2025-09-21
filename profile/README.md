@@ -4,14 +4,12 @@
 
 <div align="center">
 
-![Zeka.Stack Logo](https://raw.githubusercontent.com/zeka-stack/zeka.stack/main/supports/icons/icon.svg)
-
 **一个现代化的企业级 Java 开发技术栈**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://openjdk.java.net/)
-[![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
+[![Maven](https://img.shields.io/badge/Maven-3.9+-red.svg)](https://maven.apache.org/)
 
 </div>
 
@@ -155,8 +153,8 @@ mvn test
 
 - **作者**: dong4j
 - **邮箱**: dong4j@gmail.com
-- **项目地址**: https://github.com/zeka-stack/zeka.stack
-- **问题反馈**: https://github.com/zeka-stack/zeka.stack/issues
+- **项目地址**: https://github.com/zeka-stack
+- **问题反馈**: https://github.com/zeka-stack/issues
 
 ## 🙏 致谢
 
@@ -168,6 +166,6 @@ mvn test
 
 **Zeka.Stack** - 让 Java 开发更简单、更高效、更智能！
 
-[⭐ Star](https://github.com/zeka-stack/zeka.stack) • [🐛 Issues](https://github.com/zeka-stack/zeka.stack/issues) • [📖 Docs](https://zeka-stack.github.io/) • [💬 Discussions](https://github.com/zeka-stack/zeka.stack/discussions)
+[⭐ Star](https://github.com/zeka-stack) • [🐛 Issues](https://github.com/zeka-stack/issues) • [📖 Docs](https://zeka-stack.github.io/) • [💬 Discussions](https://github.com/zeka-stack/discussions)
 
 </div>
