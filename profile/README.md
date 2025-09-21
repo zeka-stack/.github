@@ -24,14 +24,15 @@ Zeka.Stack 采用分层模块化架构，包含以下核心模块：
 
 ### 📦 核心模块
 
-| 模块               | 名称    | 功能描述                     | 状态      |
-|------------------|-------|--------------------------|---------|
-| **arco-meta**    | 架构元数据 | 项目构建管理框架，Maven 插件集合      | 🚀 活跃开发 |
-| **blen-kernel**  | 混合内核  | 企业级 Java 应用开发核心包         | 🚀 活跃开发 |
-| **cubo-starter** | 立方启动器 | Spring Boot Starter 组件集合 | 🚀 活跃开发 |
-| **domi-suite**   | 领域套件  | 微服务领域组件集合                | 📋 规划中  |
-| **eiko-orch**    | 生态编排  | 基础设施编排组件                 | 📋 规划中  |
-| **felo-space**   | 费洛空间  | 业务应用空间                   | 📋 规划中  |
+| 模块                        | 名称         | 功能描述                     | 状态      |
+|---------------------------|------------|--------------------------|---------|
+| **arco-meta**             | 项目管理       | 项目构建管理框架，Maven 插件集合      | 🚀 活跃开发 |
+| **blen-kernel**           | 内核         | 企业级 Java 应用开发核心包         | 🚀 活跃开发 |
+| **cubo-starter**          | Starter 组件 | Spring Boot Starter 组件集合 | 🚀 活跃开发 |
+| **cubo-starter-examples** | Starter 示例 | Spring Boot Starter 组件集合 | 🚀 活跃开发 |
+| **domi-suite**            | 基础服务       | 微服务领域组件集合                | 📋 规划中  |
+| **eiko-orch**             | 中间件        | 基础设施编排组件                 | 📋 规划中  |
+| **felo-space**            | 业务服务       | 业务应用空间                   | 📋 规划中  |
 
 ## 🚀 核心特性
 
@@ -40,7 +41,7 @@ Zeka.Stack 采用分层模块化架构，包含以下核心模块：
 - **Spring Boot 3.x** - 最新版本应用框架
 - **Java 17+** - 现代化 Java 特性支持
 - **Jakarta EE 9+** - 企业级规范支持
-- **Maven 3.6+** - 现代化构建工具
+- **Maven 3.9+** - 现代化构建工具
 
 ### 🧩 模块化设计
 
@@ -118,9 +119,9 @@ public class Application {
 ## 📖 文档资源
 
 - 📚 [项目文档](https://zeka-stack.github.io/)
-- 🚀 [快速开始指南](https://zeka-stack.github.io/docs/getting-started/)
-- 🔧 [API 参考](https://zeka-stack.github.io/docs/api/)
-- 💡 [最佳实践](https://zeka-stack.github.io/docs/best-practices/)
+- 🚀 [快速开始指南](https://zeka-stack.github.io/#/guide/)
+- 🔧 [API 参考](https://zeka-stack.github.io/#/api/)
+- 💡 [最佳实践](https://zeka-stack.github.io/#/best-practices/)
 
 ## 🤝 贡献指南
 
@@ -154,7 +155,7 @@ mvn test
 - **作者**: dong4j
 - **邮箱**: dong4j@gmail.com
 - **项目地址**: https://github.com/zeka-stack
-- **问题反馈**: https://github.com/zeka-stack/issues
+- **问题反馈**: https://github.com/zeka-stack/supports/issues
 
 ## 🙏 致谢
 
@@ -166,6 +167,6 @@ mvn test
 
 **Zeka.Stack** - 让 Java 开发更简单、更高效、更智能！
 
-[⭐ Star](https://github.com/zeka-stack) • [🐛 Issues](https://github.com/zeka-stack/issues) • [📖 Docs](https://zeka-stack.github.io/) • [💬 Discussions](https://github.com/zeka-stack/discussions)
+[⭐ Star](https://github.com/zeka-stack) • [🐛 Issues](https://github.com/zeka-stack/supports/issues) • [📖 Docs](https://zeka-stack.github.io/) • [💬 Discussions](https://github.com/orgs/zeka-stack/discussions)
 
 </div>
