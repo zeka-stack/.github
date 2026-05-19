@@ -69,7 +69,7 @@ Zeka.Stack 采用分层模块化架构，包含以下核心模块：
 <dependency>
     <groupId>dev.dong4j</groupId>
     <artifactId>blen-kernel</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>3.0.0-SNAPSHOT</version>
     <type>pom</type>
 </dependency>
 ```
@@ -80,7 +80,7 @@ Zeka.Stack 采用分层模块化架构，包含以下核心模块：
 <dependency>
     <groupId>dev.dong4j</groupId>
     <artifactId>cubo-ssm-spring-boot-starter</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>3.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
